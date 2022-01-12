@@ -20,12 +20,14 @@ main {
     padding: .0em .5em .1em .5em;
     margin-bottom: .5em;
     margin-top: .3em;
+    
 }
 
 h1 {
     color: navy;
     margin: 0em;
     display: block;
+    
 }
 
 h2 {
@@ -44,4 +46,19 @@ ul {
     margin: 0em 0em .3em 0em;
     list-style-type: square;
     padding-left: 1.4em;
+}
+
+.link1{
+    background-color:rgb(80, 216, 80)
+    
+}
+.link2{
+    background-color:rgb(255, 255, 255)
+}
+.link3{
+    background-color:rgb(247, 108, 108)
+}
+
+.myname{
+    background-color:rgba(31, 41, 32, 0.116)
 }
